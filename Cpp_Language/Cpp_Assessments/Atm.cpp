@@ -49,13 +49,13 @@
 
 	    ATMAccountHolders()
 	    {
-	    accountNumber = 5678;
-	    accountHolders = "Rakesh Kharva";
-	    accountHoldersAddress = "Mumbai";
+	    accountNumber = 1309;
+	    accountHolders = "Jay gohil";
+	    accountHoldersAddress = "Kodinar";
 	    startBalance = 60000.00;
-	    accountBalance = 20000.00;
-	    branch  = "Andheri";
-	    amount = 20000;
+	    accountBalance = 40000.00;
+	    branch  = "Kodinar";
+	    amount = 40000;
 	    }
 	    };
 	//==================================================================================================
