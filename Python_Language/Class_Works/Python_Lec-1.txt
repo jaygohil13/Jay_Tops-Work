@@ -1,9 +1,9 @@
-                   * PYTHON_LANGUAGE *
+                      * PYTHON_LANGUAGE *
 
 
 -> Python is a widely used general perpose,high-level programming
    language,it was initially designed by "GUIDO VAN ROSSUM"in 
-   1991 and deleloped by python software foundation.
+   1991 and developed by python software foundation.
 
 -> It was mainly developed for emphasis on code readability and
    its syntax allows programmers to express concepts in fewer
