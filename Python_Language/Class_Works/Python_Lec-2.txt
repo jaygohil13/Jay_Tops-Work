@@ -8,7 +8,7 @@
 
   # Highly portable :
 
-   - Runs almost anywhere-high end servers and workstations,down to windows CE
+   - Runs almost anywhere-high end servers and workstations,down to windows CE.
    - uses machine independent byte-code.
 
   # Extensible :
