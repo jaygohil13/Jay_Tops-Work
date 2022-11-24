@@ -1,4 +1,4 @@
-"""
+""" 
 there are 3 types of control statements in python 
 
 1) conditional statement 
@@ -18,7 +18,7 @@ operators : if we want to perform some specific operations
 
     at that time we use some specific symbols 
 
-1) Airthmetic : + - * /  ** // 
+1) Arithmetic : + - * /  ** // 
 2) Assignment : to assign a value   (a = 10 )
 3) relational operator : >  < >= <= == != 
 4) logical operator : and or not 
@@ -102,5 +102,3 @@ else:
         print("number 2 is greater")
     else:
         print("Number 3 is greater")
-
-    
