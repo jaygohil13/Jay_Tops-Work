@@ -1,3 +1,5 @@
+"""
+
 1. What is Python?
 
 Ans- Python is a new generation language. It is widely used general purpose high level programming language.
@@ -42,6 +44,8 @@ Ans- I chose Python because:
 - Language is very easy to learn
 
 
+
+
 3. What is Software?
 
 Ans- Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
@@ -71,3 +75,5 @@ Ans-
     Application Suites	                           			OpenOffice, Microsoft Office
    Software for Engineering 
    and Product Development	           				IDE or Integrated Development Environments
+
+"""
