@@ -64,14 +64,13 @@ print("even list : ",e_list)
 print("odd list : ",o_list)
 
 """
-"""
 # extends() :
 
 l1 = []
 l1.extend([1,2,3,4,56])
 
 print(l1)
-"""
+
 """
 l1 = ["C","C++","Java","Android"]
 

@@ -7,7 +7,7 @@ String : String is a collection of characters
 name = "python"
 
 """
-
+"""
 name = input("Enter your name : ")
 print("lower : ",name.lower())
 
@@ -20,6 +20,7 @@ print(len(name))
 name = input("Enter your name : ")
 print(name.capitalize())
 
+"""
 menu = """
        MENU
 

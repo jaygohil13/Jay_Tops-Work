@@ -85,7 +85,7 @@ if marks>=0  and marks <=100:
 else:
     print("Invalid Input")
 
-#--------------- find gretest number amoung three numbers 
+#--------------- find greatest number among three numbers 
 
 
 num1 = int(input("Enter number 1 : "))
