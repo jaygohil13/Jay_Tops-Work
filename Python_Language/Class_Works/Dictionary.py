@@ -78,7 +78,7 @@ Quiz = {
     },
     2 : {
         "que" : "who is develope c language",
-        "ans" : "Danis"
+        "ans" : "danis"
     },
     3 : {
         "que" : "Who is world best cricketer",
