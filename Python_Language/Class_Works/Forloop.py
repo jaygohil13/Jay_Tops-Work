@@ -1,8 +1,8 @@
 # Take 5 numbers from user :
-
+"""
 for i in range(1,6):
     num1 = int(input("Enter number "+str(i)+" : "))
-
+"""
 
 # format function :
 

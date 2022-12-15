@@ -25,6 +25,10 @@ syntax :
         funname()
 
 """
+#  1) function without parameters and function without return type
+
+        # def funname():
+           # block
 def greetings(): # function define
     print("hello welcome to python")
 
@@ -40,9 +44,15 @@ Function categories :
         def funname():
             block
 
-    2) function with parameter and with return type
+    2) function with parameter and without return type
            block of code
 
+"""
+
+
+"""
+2) function with parameter and without return type
+           block of code
 """
 
 def addition(num1,num2):
