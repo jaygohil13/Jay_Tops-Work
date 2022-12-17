@@ -1,3 +1,6 @@
+"""
+
+
                      KBC GAME
 
 Total 10 Ques :
@@ -22,5 +25,5 @@ Total Score : 0
 
 Hints : Function , Looping , Dictionary
 							
-
+"""
       
