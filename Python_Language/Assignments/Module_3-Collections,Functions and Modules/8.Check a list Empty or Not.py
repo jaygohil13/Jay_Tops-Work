@@ -1,6 +1,6 @@
 # 1). Write a Python program to check a list is empty or not. 
 
-list1 = []
+list1 = [25,23]
 
 if not list1:
     print("The List is Empty")

@@ -2,7 +2,7 @@
 #                                                            elements where the values are square of numbers between 1 and 30. 
 
 l = list()
-for i in range(1,30):
+for i in range(1,31):
 	l.append(i**2)
 print(l)
 print(l[:5])

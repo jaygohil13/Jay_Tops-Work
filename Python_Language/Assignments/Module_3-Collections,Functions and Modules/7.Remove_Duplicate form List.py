@@ -12,4 +12,4 @@ print(l1)
 # Second types of Duplicate elements remove.
 
 duplicate = [2, 4, 10, 20, 5, 2, 20, 4]
-print(list(set(duplicate)))
+print(set(duplicate))

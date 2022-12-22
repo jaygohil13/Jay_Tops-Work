@@ -1,7 +1,7 @@
 # 1). Write a Python function that takes two lists and returns true if they have at least one common member. 
 
 list1=[1,3,5,7]
-list2=[1,3,5,7]
+list2=[1,9,0,6]
 result = 0
 def find_common(list1, list2):
      for x in list1:

@@ -91,6 +91,35 @@ print("Dis_amt : ",Dis_amt)
 Net_amt = Total_amt - Dis_amt
 print("Net_amt : ",Net_amt)
 
+age1 = str(Age)
+gram1 = str(Gram)
+gold_price1 = str(Gold_price)
+total_rate1 = str(Total_rate)
+making_charges1 = str(making_charges)
+total_charges1 = str(Total_charges)
+total_amt1 = str(Total_amt)
+discount1 = str(Discount)
+dis_amt1 = str(Dis_amt)
+net_amt1 = str(Net_amt)
+
+
+f = open("C:\\Users\\gohil\\OneDrive\\Documents\\GitHub\\Jay_Tops-Work\\Python_Language\\Daily_Tasks\\kalyan.txt","a")
+
+f.write("\nName :"+Name)
+f.write("\nGender :"+Gender)
+f.write("\nAge :"+age1)
+f.write("\nProduct :"+Product)
+f.write("\nGram :"+gram1)
+f.write("\nGold_price :"+gold_price1)
+f.write("\nTotal_rate :"+total_rate1)
+f.write("\nMaking_charge :"+making_charges1)
+f.write("\nTotal_charges :"+total_charges1)
+f.write("\nTotal_amt :"+total_amt1)
+f.write("\nDiscount :"+discount1)
+f.write("\nDis_amt :"+dis_amt1)
+f.write("\nNet_amt :"+net_amt1)
+
+
 
 
 
