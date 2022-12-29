@@ -1,12 +1,12 @@
 # 1). How Many Basic Types Of Functions Are Available In Python ? 
 
 """
-Function : function is a block of code that code are used to again and again using of function we can reduce our code
+Function : function is a block of code that code are used again and again using of function we can reduce our code
             using of function we can reuse our code.
 
 How we can use function
 
-there are 2 steps :
+there are 3 steps :
 
 1) function declaration : 
 2) function defination :
