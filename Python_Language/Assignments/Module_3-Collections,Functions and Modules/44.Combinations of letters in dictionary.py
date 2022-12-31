@@ -11,7 +11,6 @@ dict = {'1':['a','b'], '2':['c','d']}
 for x ,y in dict.values():
     print(x,y)
 
-# Second type of example :
 
 print("\n")
 from itertools import product
@@ -20,6 +19,7 @@ d ={'1':['a','b'], '2':['c','d']}
 
 for x, y in product(*d.values()):
     print(x + y)
+
 
 """
 for x in d['1']:
