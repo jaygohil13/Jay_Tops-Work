@@ -5,7 +5,7 @@ there are 4 types of Collection.
 
 1) List : list is a collection data type which is contain similar and dis-similar data elements at single location
           
-          list which is represent by []
+          list which is represent by [] --->>> SQUARE BRACKET
 
           list which is mutable (we can change it value)
 

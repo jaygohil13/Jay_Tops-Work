@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-	string kan = "Kamal";
-	string ishq = " Hasan";
+	string kan = "Jay";
+	string ishq = " Gohil";
 	
 	string str1;
 	int len;

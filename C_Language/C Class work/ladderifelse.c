@@ -10,11 +10,11 @@ void main()
 	scanf("%d",&rollno);
 	printf("Enter Name :");
 	scanf("%s",&name);
-	printf("Enter Physics Marks : ");
+	printf("\nEnter Physics Marks : ");
 	scanf("%d",&s1);
-	printf("Enter Chemistry Marks :");
+	printf("\nEnter Chemistry Marks :");
 	scanf("%d",&s2);
-	printf("Enter Maths Marks : ");
+	printf("\nEnter Maths Marks : ");
 	scanf("%d",&s3);
 	total = s1+s2+s3;
 	printf("\nPCM Marks is : %d",total);

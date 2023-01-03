@@ -4,11 +4,22 @@ A process which follows step by step is called an Algorithm.
 
 E.g Making a Tea
 
-Step 1) Start   
-Step 2) Input
-Step 3) Process
-Step 4) Decision -if yes goto next step, if no goto step1.
+
+Step 1) Start   --->> Ovel
+
+
+Step 2) Input   --->> Parallelogram
+
+
+Step 3) Process --->> Rectangle
+
+
+Step 4) Decision -if yes goto next step, if no goto step1. --->> Diomond
+
+
 Step 5) Output
+
+
 Step 6) Stop
 
 

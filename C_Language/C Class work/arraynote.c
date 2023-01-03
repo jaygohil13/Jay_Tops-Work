@@ -13,9 +13,14 @@
 			e.g:
 				int arr[5];
 				
-		Array index starts with 0.
+		[[ Array index starts with 0. ]]
 		
-		Array-name itself is the base address.
+		Array-name : itself is the base address.
+		
+		---->>> An array is a collection of similar element.
+		
+		---->>> One Variable :- Capable of storing multiple values.
+		
 		
 						  	
 

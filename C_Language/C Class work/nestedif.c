@@ -15,18 +15,18 @@ void main()
 		}
 		else
 		{
-			printf("\nC is Greater");
+			printf("\n%C is Greater");
 		}
 	}
 	else
 	{
 		if(b > c)
 		{
-			printf("\nB is Greater");
+			printf("\n%B is Greater");
 		}
 		else
 		{
-			printf("\nC is Greater");
+			printf("\n%C is Greater");
 		}
 	}
 	
